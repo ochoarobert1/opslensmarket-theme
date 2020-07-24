@@ -1,5 +1,3 @@
-![alt tag](images/repo-logo.jpg)
-
 # opslens - Wordpress Custom Theme #
 
 * Version: 1.0.0
